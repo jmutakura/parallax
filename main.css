@@ -80,6 +80,21 @@ body, html {
 /* MEDIA QUERY */
 @@media (max-width: 35.5rem) {
 
+  .pimg1 {
+    background-image: url('https://images.unsplash.com/photo-1513802348991-093d71661213?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80');
+    min-height: 100%;
+  }
+
+  .pimg2 {
+    background-image: url('https://images.unsplash.com/photo-1534083708493-62fff9d96ecc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2734&q=80');
+    min-height: 25rem;
+  }
+
+  .pimg3 {
+    background-image: url('https://images.unsplash.com/photo-1485560994238-db4592aa1a6e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2734&q=80');
+    min-height: 25rem;
+  }
+
   .pimg1, .pigm2, .pigm3 {
     background-attachment: scroll;
   }
