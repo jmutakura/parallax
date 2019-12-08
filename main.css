@@ -33,7 +33,7 @@ body, html {
 }
 
 .pimg3 {
-  background-image: url(https://image.shutterstock.com/z/stock-vector-night-mountain-winter-landscape-vector-illustration-1244277169.jpg');
+  background-image: url('https://image.shutterstock.com/z/stock-vector-night-mountain-winter-landscape-vector-illustration-1244277169.jpg');
   min-height: 25rem;
 }
 
